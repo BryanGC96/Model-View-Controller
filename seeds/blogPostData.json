@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Introduction to Tech Blogging",
+        "content": "This is a sample blog post about tech blogging. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "date_created": "2024-04-12T10:00:00Z", 
+        "user_id": 1 
+    },
+    {
+        "title": "Top 10 JavaScript Libraries",
+        "content": "Here's a list of the top 10 JavaScript libraries you should know about. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "date_created": "2024-04-12T10:00:00Z", 
+        "user_id": 2
+    },
+    {
+        "title": "Getting Started with React",
+        "content": "In this post, we'll cover the basics of React development. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "date_created": "2024-04-12T10:00:00Z", 
+        "user_id": 3 
+    }
+]
+
