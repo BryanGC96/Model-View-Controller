@@ -1,10 +1,12 @@
 [
     {
         "content": "Great post! Thanks for sharing.",
-        "blogpost_id": 1
+        "blogpost_id": 1,
+        "user_id": 1
     },
     {
         "content": "Interesting insights. I enjoyed reading this.",
-        "blogpost_id": 2
+        "blogpost_id": 2,
+        "user_id": 2
     }
 ]
